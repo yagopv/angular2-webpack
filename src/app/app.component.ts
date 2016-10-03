@@ -4,4 +4,4 @@ import {Component} from '@angular/core';
     selector: 'aw-app',
     templateUrl: 'app.component.html'
 })
-export class RouteAppComponent { }
+export class AppComponent { }

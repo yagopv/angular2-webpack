@@ -1,3 +1,7 @@
+//Bootstrap
+import 'bootstrap/dist/css/bootstrap.css';
+import '../public/css/styles.css';
+
 // Angular 2
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
